@@ -1,0 +1,9 @@
+---
+:orm: activerecord
+:test: none
+:mock: none
+:script: jquery
+:renderer: erb
+:stylesheet: sass
+:namespace: Xiezi
+:migration_format: number
